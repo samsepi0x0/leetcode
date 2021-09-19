@@ -17,6 +17,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 6. ZigZag Conversion (Medium)
   ├── 53. Maximum SubArray (Easy)
   ├── 88. Merge Sorted Arrays (Easy)
+  ├── 118. Pascal's Triangle (Easy)
   ├── 121. Best Time to Buy and Sell Stock (Easy)
   ├── 217. Contains Duplicate (Easy)
   ├── 350. Intersection of Two Arrays II (Easy)
