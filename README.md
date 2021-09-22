@@ -23,6 +23,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 121. Best Time to Buy and Sell Stock (Easy)
   ├── 217. Contains Duplicate (Easy)
   ├── 350. Intersection of Two Arrays II (Easy)
+  ├── 383. Ransom Note (Easy)
   ├── 387. First Unique Character in a String (Easy)
   └── 566. Reshape the Matrix (Easy)
   
