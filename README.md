@@ -19,6 +19,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 36. Validate Sudoku (Medium)
   ├── 53. Maximum SubArray (Easy)
   ├── 74. Search A 2D Matrix (Medium)
+  ├── 83. Remove Duplicates from Sorted Lists (Easy)
   ├── 88. Merge Sorted Arrays (Easy)
   ├── 118. Pascal's Triangle (Easy)
   ├── 121. Best Time to Buy and Sell Stock (Easy)
