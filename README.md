@@ -21,6 +21,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 88. Merge Sorted Arrays (Easy)
   ├── 118. Pascal's Triangle (Easy)
   ├── 121. Best Time to Buy and Sell Stock (Easy)
+  ├── 141. Linked List Cycle (Easy)
   ├── 217. Contains Duplicate (Easy)
   ├── 242. Valid Anagram (Easy)
   ├── 350. Intersection of Two Arrays II (Easy)
