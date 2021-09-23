@@ -15,6 +15,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 4. Median of Two Sorted Arrays (Hard)
   ├── 5. Longest Palindromic String (Medium)
   ├── 6. ZigZag Conversion (Medium)
+  ├── 21. Merge Two Sorted Lists (Easy)
   ├── 36. Validate Sudoku (Medium)
   ├── 53. Maximum SubArray (Easy)
   ├── 74. Search A 2D Matrix (Medium)
