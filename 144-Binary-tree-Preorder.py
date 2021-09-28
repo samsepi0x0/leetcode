@@ -14,5 +14,5 @@ class Solution:
         if root is not None:
             if root.val is not None:
                 self.out.append(root.val)
-            self.preorderTraversal(root.left)
-            self.preorderTraversal(root.right)
+            self.preorder(root.left)
+            self.preorder(root.right)
