@@ -25,6 +25,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 118. Pascal's Triangle (Easy)
   ├── 121. Best Time to Buy and Sell Stock (Easy)
   ├── 141. Linked List Cycle (Easy)
+  ├── 144. Binary Tree PreOrder Traversal (Easy)
   ├── 203. Remove Linked List Elements (Easy)
   ├── 206. Reverse Linked List (Easy)
   ├── 217. Contains Duplicate (Easy)
