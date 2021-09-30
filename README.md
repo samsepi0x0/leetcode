@@ -36,6 +36,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 350. Intersection of Two Arrays II (Easy)
   ├── 383. Ransom Note (Easy)
   ├── 387. First Unique Character in a String (Easy)
-  └── 566. Reshape the Matrix (Easy)
+  ├── 566. Reshape the Matrix (Easy)
+  └── 704. Binary Search (Easy)
   
   ```
