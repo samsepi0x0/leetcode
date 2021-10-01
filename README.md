@@ -39,6 +39,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 383. Ransom Note (Easy)
   ├── 387. First Unique Character in a String (Easy)
   ├── 566. Reshape the Matrix (Easy)
-  └── 704. Binary Search (Easy)
+  ├── 704. Binary Search (Easy)
+  └── 977. Sqares of a Sorted Array (Easy)
   
   ```
