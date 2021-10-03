@@ -38,6 +38,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 242. Valid Anagram (Easy)
   ├── 278. First Bad Version (Easy)
   ├── 283. Move Zeroes (Easy)
+  ├── 344. Reverse String (Easy)
   ├── 350. Intersection of Two Arrays II (Easy)
   ├── 383. Ransom Note (Easy)
   ├── 387. First Unique Character in a String (Easy)
