@@ -1,12 +1,9 @@
 # leetcode
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samsepi0x0/leetcode/main/Screenshot%20from%202021-09-18%2019-59-44.png" />
-</p>
-
 This repository contains a collection of all the leetcode challenges I have done.
 
 ## Feel free to contribute solutions in java or python as a part of Hacktoberfest 2021 PRs.
+
 
 ## File Structure:
   ```
