@@ -44,6 +44,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 387. First Unique Character in a String (Easy)
   ├── 557. Reverse Words in a String III (Easy)
   ├── 566. Reshape the Matrix (Easy)
+  ├── 567. Permutation in String (Medium)
   ├── 704. Binary Search (Easy)
   ├── 876. Middle Of The Linked List (Easy)
   └── 977. Sqares of a Sorted Array (Easy)
