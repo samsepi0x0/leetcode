@@ -49,5 +49,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 733. Flood Fill (Easy)
   ├── 876. Middle Of The Linked List (Easy)
   └── 977. Sqares of a Sorted Array (Easy)
+  └── 1007-Minimum-Domino-Rotations-For-Equal-Row(Medium)
+
   
   ```
