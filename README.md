@@ -45,6 +45,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 557. Reverse Words in a String III (Easy)
   ├── 566. Reshape the Matrix (Easy)
   ├── 567. Permutation in String (Medium)
+  ├── 617. Merge Two Binary Trees (Easy)
   ├── 695. Max Area of island (Medium)
   ├── 704. Binary Search (Easy)
   ├── 733. Flood Fill (Easy)
