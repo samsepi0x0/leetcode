@@ -45,10 +45,11 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 557. Reverse Words in a String III (Easy)
   ├── 566. Reshape the Matrix (Easy)
   ├── 567. Permutation in String (Medium)
+  ├── 695. Max Area of island (Medium)
   ├── 704. Binary Search (Easy)
   ├── 733. Flood Fill (Easy)
   ├── 876. Middle Of The Linked List (Easy)
-  └── 977. Sqares of a Sorted Array (Easy)
+  ├── 977. Sqares of a Sorted Array (Easy)
   └── 1007 Minimum Domino Rotations For Equal Row (Medium)
 
   
