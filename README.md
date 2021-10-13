@@ -34,6 +34,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 203. Remove Linked List Elements (Easy)
   ├── 206. Reverse Linked List (Easy)
   ├── 217. Contains Duplicate (Easy)
+  ├── 231. Power of Two (Easy)
   ├── 232. Implement Queue Using Stacks (Easy)
   ├── 242. Valid Anagram (Easy)
   ├── 278. First Bad Version (Easy)
