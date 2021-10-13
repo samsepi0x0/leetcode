@@ -31,6 +31,7 @@ This repository contains a collection of all the leetcode challenges I have done
   ├── 145. Binary Tree PostOrder Traversal (Easy)
   ├── 167. Two Sum II (Easy)
   ├── 189. Rotate Array (Medium)
+  ├── 191. Number of 1 Bits (Easy)
   ├── 203. Remove Linked List Elements (Easy)
   ├── 206. Reverse Linked List (Easy)
   ├── 217. Contains Duplicate (Easy)
