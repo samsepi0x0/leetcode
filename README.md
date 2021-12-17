@@ -1,9 +1,6 @@
 # leetcode
 
-This repository is a collection of all the leetcode challenges I have done.
-
-## Feel free to contribute solutions in java or python as a part of Hacktoberfest 2021 PRs.
-
+This repository is a collection of all the leetcode challenges others have contributes and I did. 
 
 ## File Structure:
   ```
