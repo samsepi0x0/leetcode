@@ -15,6 +15,7 @@ This repository is a collection of all the leetcode challenges others have contr
   ├── 19. Remove Nth Node From End of List (Medium)
   ├── 20. Valid Parentheses (Easy)
   ├── 21. Merge Two Sorted Lists (Easy)
+  ├── 27. Remove Element (Easy)
   ├── 35. Search Insert Position (Easy)
   ├── 36. Validate Sudoku (Medium)
   ├── 53. Maximum SubArray (Easy)
