@@ -33,6 +33,7 @@ This repository is a collection of all the leetcode challenges others have contr
   ├── 169. Majority Element (Easy)
   ├── 189. Rotate Array (Medium)
   ├── 191. Number of 1 Bits (Easy)
+  ├── 200. Number of Islands (Medium)
   ├── 203. Remove Linked List Elements (Easy)
   ├── 206. Reverse Linked List (Easy)
   ├── 217. Contains Duplicate (Easy)
