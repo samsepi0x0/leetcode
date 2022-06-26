@@ -19,7 +19,7 @@ public:
         ListNode* temp = head;
         
         while(temp != NULL){
-            while(temp->next != NULL and temp->val == temp->next->val){
+            while(temp->next != NULL && temp->val == temp->next->val){
                 temp = temp->next;
             }
             if(prev->next == temp){
