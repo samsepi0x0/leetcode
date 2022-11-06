@@ -54,6 +54,7 @@ This repository is a collection of all the leetcode challenges others have contr
   ├── 617. Merge Two Binary Trees (Easy)
   ├── 695. Max Area of island (Medium)
   ├── 704. Binary Search (Easy)
+  ├── 724. Find Pivot Index (Easy)
   ├── 733. Flood Fill (Easy)
   ├── 876. Middle Of The Linked List (Easy)
   ├── 977. Sqares of a Sorted Array (Easy)
