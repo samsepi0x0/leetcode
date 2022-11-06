@@ -57,7 +57,8 @@ This repository is a collection of all the leetcode challenges others have contr
   ├── 733. Flood Fill (Easy)
   ├── 876. Middle Of The Linked List (Easy)
   ├── 977. Sqares of a Sorted Array (Easy)
-  └── 1007 Minimum Domino Rotations For Equal Row (Medium)
+  ├── 1007. Minimum Domino Rotations For Equal Row (Medium)
+  └── 1480. Running Sum of 1D Array (Easy)
 
   
   ```
