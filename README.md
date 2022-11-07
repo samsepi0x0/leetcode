@@ -49,6 +49,7 @@ This repository is a collection of all the leetcode challenges others have contr
   ├── 350. Intersection of Two Arrays II (Easy)
   ├── 383. Ransom Note (Easy)
   ├── 387. First Unique Character in a String (Easy)
+  ├── 392. Is Subsequence (Easy)
   ├── 557. Reverse Words in a String III (Easy)
   ├── 566. Reshape the Matrix (Easy)
   ├── 567. Permutation in String (Medium)
