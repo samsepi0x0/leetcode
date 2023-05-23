@@ -12,4 +12,17 @@ class Solution {
         }
         return 0;
     }
+    public int majorityElement2(int[] nums) {
+        int major=nums[0], count = 1; // O(1) awesome approach.
+        for(int i=1; i<nums.length;i++){
+            if(count==0){
+                count++;
+                major=nums[i];
+            }else if(major==nums[i]){
+                count++;
+            }else count--;
+            
+        }
+        return major;
+    }
 }
