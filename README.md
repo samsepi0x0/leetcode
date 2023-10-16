@@ -67,3 +67,10 @@ This repository is a collection of all the leetcode challenges others have contr
   └── 2444. Count Subarrays With Fixed Bounds (Hard)
   
   ```
+
+## Contribution Guidelines:
+Any of the following languages are accepted in the pull request:
+- Java
+- Python
+- CPP
+- Rust
